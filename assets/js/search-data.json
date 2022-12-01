@@ -33,6 +33,17 @@
         
     
   
+    
+        ,"post3": {
+            "title": "Unit 3 Lesson 5 Booleans Expressions",
+            "content": "Introduction to the Lesson . Booleans are like binary, having 2 possible values, but in Boolean, True is 1 and False is 0. By using boolean operators, a boolean value can be produced. . Important Vocabulary . Boolean | Relational Operator | Logical Operator | . Boolean Operators . Boolean operators produces booleans after it is used between two values . Relational Operators . Relational Operators can work between any two values of the same type known as operands, provided that the type supports such types of operators They consist of the operators ==, !=, &gt;, &lt;, &gt;=, &lt;=, each one working the same way that they work as one would expect, with == being the replacement for equal to, since = is reserved for value assignments. . They also work on other types, such as string or list, and values at each index is compared in order to determine which one is greater for example: &quot;abg&quot;&lt;&quot;acd&quot; returns True, since the computer first goes to a and a, after they are the same, they go to b and c, and since c is &quot;greater&quot; than b, &quot;acd&quot; is greater than &quot;abg&quot; . print(&quot;True:&quot;,4 4) print(&quot;True:&quot;,1 0) print(&quot;False:&quot;,7 3) print(&quot;True:&quot;,5 6) print(&quot;False:&quot;,7 8) print(&quot;True:&quot;,3 3) print(&#39;&#39;) # Same as above, but now for other values other than int print(&#39;True:&#39;,&quot;as&quot;&quot;as&quot;) print(&quot;False&quot;,TrueFalse) print(&quot;False:&quot;,[2,3,1][2,3,1]) print(&quot;True:&quot;,&#39;af&#39;&#39;bc&#39;) print(&quot;False:&quot;,&#39;ce&#39;&#39;cf&#39;) print(&quot;True:&quot;,[1,&#39;b&#39;][1,&#39;a&#39;]) print(&#39;&#39;) . Logical Operators . These are operators that works on operand(s) to produce a single boolean result. Examples include and, or, not. . and returns true when both operands around it is true. . or returns true when at least one of its operands is true. . not returns true when the boolean after it is false. . They work the same way in binary, returning a specific value after specific inputs that is shown in a Truth Table . print(&quot;True:&quot;, True False) print(&quot;False:&quot;, True) print(&quot;True:&quot;, True True) print(&quot;False:&quot;, True) print(&quot;False:&quot;, True False) print(&quot;True:&quot;, False) . Combination of Relational and Logical Operators and the Procedure of Operations . Relational and Logical Operators can work by a set of precedece, a set of order that the computer understands the operations on. . Relational Operators goes first, and then Logical operators work in order of not, and, or . as usual, things in the parenthesis takes precedence over others . print( 3 3 4 6 5 7) .",
+            "url": "https://jasoxddd.github.io/booleanConditionals/fastpages/big%20idea%203/2022/11/27/3_5-Boolean-Expressions.html",
+            "relUrl": "/fastpages/big%20idea%203/2022/11/27/3_5-Boolean-Expressions.html",
+            "date": " • Nov 27, 2022"
+        }
+        
+    
+  
 
   
   
