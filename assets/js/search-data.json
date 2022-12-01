@@ -52,7 +52,7 @@
   
       ,"page6": {
           "title": "Vocab",
-          "content": "Vocab . Greater than: &gt; Less than: &lt; Greater than or equal to: &gt;= Less than or equal to: &lt;= Equal to: == Not Equal to: != Boolean expression: A logical statement that is either TRUE or FALSE Conditional: used to handle conditions in your program. Nested conditional: an if or if else statement inside another if else statement. .",
+          "content": "Greater than: &gt; | Less than: &lt; | Greater than or equal to: &gt;= | Less than or equal to: &lt;= | Equal to: == | Not Equal to: != | Boolean expression: A logical statement that is either TRUE or FALSE | Conditional: used to handle conditions in your program. | Nested conditional: an if or if else statement inside another if else statement. | .",
           "url": "https://jasoxddd.github.io/booleanConditionals/_pages/vocab.html",
           "relUrl": "/_pages/vocab.html",
           "date": ""
