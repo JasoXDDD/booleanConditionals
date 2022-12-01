@@ -1,3 +1,8 @@
+---
+toc: true
+layout: page
+title: Vocab
+---
 # Vocab
 Greater than: >
 Less than: <
