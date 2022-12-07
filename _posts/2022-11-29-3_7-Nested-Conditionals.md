@@ -140,26 +140,30 @@ layout: notebook
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span> <span class="o">=</span> <span class="p">;</span> 
-<span class="k">if</span> <span class="p">():</span> 
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;&quot;</span><span class="p">);</span> 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">Age</span> <span class="o">=</span> <span class="mi">30</span><span class="p">;</span> 
+<span class="k">if</span> <span class="p">(</span><span class="n">Age</span> <span class="o">==</span> <span class="mi">30</span><span class="p">):</span> 
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;your old&quot;</span><span class="p">)</span> 
 <span class="k">else</span><span class="p">:</span> 
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;&quot;</span><span class="p">);</span> 
-<span class="k">if</span> <span class="p">():</span> 
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;&quot;</span><span class="p">);</span> 
-<span class="k">else</span><span class="p">:</span> 
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;&quot;</span><span class="p">);</span> 
-<span class="k">if</span> <span class="p">():</span> 
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;&quot;</span><span class="p">);</span> 
-<span class="k">else</span><span class="p">:</span>
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;&quot;</span><span class="p">);</span> 
-<span class="k">if</span> <span class="p">():</span> 
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;&quot;</span><span class="p">);</span> 
-<span class="k">else</span><span class="p">:</span> 
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;&quot;</span><span class="p">);</span> 
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;you should retire&quot;</span><span class="p">)</span> 
+<span class="k">if</span> <span class="p">(</span><span class="n">Age</span> <span class="o">&gt;</span> <span class="mi">50</span><span class="p">):</span> 
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;You have a beard&quot;</span><span class="p">)</span> 
 </pre></div>
 
     </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>your old
+</pre>
+</div>
+</div>
+
 </div>
 </div>
 
